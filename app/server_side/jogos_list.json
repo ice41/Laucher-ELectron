@@ -16,5 +16,17 @@
     "descricao": "Descrição do Game 3.",
     "imagem": "https://via.placeholder.com/250x150",
     "link": "https://example.com/game3"
+  },
+  {
+    "nome": "Game 4",
+    "descricao": "Descrição do Game 3.",
+    "imagem": "https://via.placeholder.com/250x150",
+    "link": "https://example.com/game3"
+  },
+  {
+    "nome": "Game 5",
+    "descricao": "Descrição do Game 3.",
+    "imagem": "https://via.placeholder.com/250x150",
+    "link": "https://example.com/game3"
   }
 ]
