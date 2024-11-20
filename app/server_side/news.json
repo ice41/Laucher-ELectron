@@ -1,12 +1,7 @@
-[
-  {
-    "title": "Lançamento de nova versão",
-    "date": "2024-11-20",
-    "content": "Lançamos a versão 1.2 com várias melhorias."
-  },
-  {
-    "title": "Manutenção programada",
-    "date": "2024-11-25",
-    "content": "O servidor ficará offline para manutenção às 02:00 UTC."
-  }
-]
+{
+  "news": [
+    "Manutenção agendada para 20/11/2024.",
+    "Nova atualização disponível com correções de bugs!",
+    "Evento especial no fim de semana."
+  ]
+}
