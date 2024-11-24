@@ -1,7 +1,10 @@
-{
-  "news": [
-    "Manutenção agendada para 20/11/2024.",
-    "Nova atualização disponível com correções de bugs!",
-    "Evento especial no fim de semana."
-  ]
-}
+[
+  {
+    "title": "Lançamento de Atualização",
+    "content": "A versão 1.2 foi lançada com novos recursos incríveis."
+  },
+  {
+    "title": "Manutenção Programada",
+    "content": "O servidor estará em manutenção na próxima sexta-feira."
+  }
+]
